@@ -1,1 +1,3 @@
-# LearningReact-Redux
+# LearningReact-Redux: freecodecamp
+
+Front End Development Libraries Projects
